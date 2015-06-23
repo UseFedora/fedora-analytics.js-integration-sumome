@@ -1,5 +1,5 @@
 
-1.0.0 / 2015-06-09
+1.0.0 / 2015-06-23
 ==================
 
-  * Initial commit :sparkles:
+  * Initial commit :noah:
