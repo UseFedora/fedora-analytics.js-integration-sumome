@@ -1,6 +1,6 @@
 {
   "name": "analytics.js-integration-sumome",
-  "repository": "usefedora/fedora-analytics.js-integration-sumome",
+  "repository": "/UseFedora/fedora-analytics.js-integration-sumome/blob/master/package.json",
   "description": "The SumoMe analytics.js integration.",
   "version": "1.0.0",
   "license": "MIT",
