@@ -1,7 +1,7 @@
 {
-  "name": "analytics.js-integration-uservoice",
-  "repo": "segment-integrations/analytics.js-integration-uservoice",
-  "description": "The Uservoice analytics.js integration.",
+  "name": "fedora-analytics.js-integration-sumome",
+  "repo": "usefedora/fedora-analytics.js-integration-sumome",
+  "description": "The SumoMe analytics.js integration.",
   "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",

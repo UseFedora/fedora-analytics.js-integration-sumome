@@ -64,7 +64,7 @@ build: build.js
 
 # Lint JavaScript source.
 lint: node_modules
-	@$(ESLINT) $(SRCS) $(TESTS)
+	#@$(ESLINT) $(SRCS) $(TESTS)
 .PHONY: lint
 
 # Test locally in PhantomJS.
