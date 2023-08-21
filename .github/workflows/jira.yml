@@ -1,0 +1,14 @@
+name: JIRA validator
+on:
+  push:
+    branches-ignore:
+      - main
+      - master
+      - staging
+
+jobs:
+  validate:
+    uses: Hotmart-Org/actions/.github/workflows/jira.yaml@master
+    secrets: inherit
+    with:
+      runs-on: "staging-iac"
