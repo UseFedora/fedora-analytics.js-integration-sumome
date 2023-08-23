@@ -1,0 +1,21 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: fedora-analytics.js-integration-sumome
+  namespace: usefedora
+  description: ''
+  tags: []
+  annotations:
+    github.com/project-slug: UseFedora/fedora-analytics.js-integration-sumome
+    backstage.io/techdocs-ref: dir:.
+  links: []
+spec:
+  type: service
+  lifecycle: production
+  owner: Platform Enablement
+  heimdall:
+    reportable: false
+    pci: false
+    products: []
+    squads: []
+    impact: ''
