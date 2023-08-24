@@ -5,8 +5,7 @@ on:
       - main
       - master
       - staging
-      - dependabot/**
-      - translations_**
+
 jobs:
   validate:
     uses: Hotmart-Org/actions/.github/workflows/jira.yaml@master
